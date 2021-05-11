@@ -1,0 +1,50 @@
+a {
+    color: white;
+}
+
+body {
+    font-family: system-ui;
+}
+
+#channels {
+    margin-top: 5%;
+    color: white;
+}
+
+#footer {
+    position: absolute;
+    z-index: 1;
+    bottom: 100px;
+    width: 100%;
+    bottom: 0;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+html {
+    background: linear-gradient(black, #000080, #8b0000, #000080, black, black, black);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    filter: drop-shadow(0px 0px 5px #000000);
+}
+
+#title {
+    font-size: 50px;
+    margin: 4%;
+    color: white;
+    font-weight: bold;
+}
